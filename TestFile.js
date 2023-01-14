@@ -1,2 +1,11 @@
-Here I am making some changes. Kelv to Drew Cobb for a 7 yard TD to put the Scorps up 7-0.
-Guess what! Malik Malachi with his 4th INT of the young season to set up the Scorps offense with terrific field position .
+let quarterbackName = "Kelvin Remmard";
+let runningBackName = "Evante Simons";
+let wideReceiverName = "Aaron Flynn";
+let tightEndName = "Drew Cobb";
+let oLinemanName = "Malcolm Curtis";
+let dLinemanName = "Darren Patterson";
+let linebackerName = "Moe Young";
+let defensiveBackName = "Malik Malachi";
+let teamName = "Scorpions";
+let QBtoTEtd = `${quarterbackName} finds ${tightEndName} in the endzone for a ${teamName} touchdown!`;
+console.log(QBtoTEtd);
